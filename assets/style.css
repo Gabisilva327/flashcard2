@@ -12,7 +12,12 @@ body {
     background-color: rgb(95, 143, 143);
     height: 20rem;
     flex-grow: 1;
-flex-basis: calc(33% -6rem);
+    flex-basis: calc(33% -6rem);
+}
+
+.cartao__conteudo {
+    text-align: center;
+    height: 100%;
 }
 
 footer {
